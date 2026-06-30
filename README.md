@@ -28,6 +28,14 @@ MS in ECE (Machine Learning & Data Science) @ **USC**. I build production-grade 
 
 ---
 
+## 📜 Certifications
+
+[![MLOps Bootcamp](https://img.shields.io/badge/Complete%20MLOps%20Bootcamp-Udemy-purple?logo=udemy&logoColor=white)](https://ude.my/UC-43f32ff3-dcfc-4441-aa0e-9ad243a1a75d)
+[![Deep Learning & CV](https://img.shields.io/badge/Deep%20Learning%20%26%20Computer%20Vision%20A--Z-Udemy-purple?logo=udemy&logoColor=white)](https://ude.my/UC-29547f67-8d9a-4c83-ba43-678de94a28b8)
+[![ML A-Z](https://img.shields.io/badge/Machine%20Learning%20A--Z-Udemy-purple?logo=udemy&logoColor=white)](https://ude.my/UC-2f027920-fdff-46f3-93f0-1d01aee6b194)
+
+---
+
 ## 📫 Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Tuhin%20Das-blue?logo=linkedin)](https://www.linkedin.com/in/tuhin-das-912a08271)
