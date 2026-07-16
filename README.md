@@ -12,11 +12,11 @@ MS student in Electrical & Computer Engineering (ML & Data Science) at USC, buil
 
 ## 🚀 Featured Projects
 
-### [🎣 PhishOps — Real-Time Phishing Detection MLOps Pipeline](https://github.com/Aspect661/PhishOps)
+### [🎣 PhishOps: Real-Time Phishing Detection MLOps Pipeline](https://github.com/Aspect661/PhishOps)
 End-to-end system classifying URLs as phishing/legitimate from 31 structural, SSL, and traffic features. Trained 5 classifiers via GridSearchCV — **best model (Gradient Boosting) hit 0.978 F1 / 0.981 precision / 0.975 recall**. Full production loop: MongoDB ingestion → schema + drift validation (KS test) → MLflow/DagsHub experiment tracking → FastAPI serving → Dockerized deployment on AWS EC2 via a 3-job GitHub Actions CI/CD pipeline (build → push to ECR → zero-downtime redeploy).
 `Python` `scikit-learn` `FastAPI` `MongoDB` `MLflow` `Docker` `AWS (EC2, S3, ECR)` `GitHub Actions`
 
-### [📝 SamSum Dialogue Summarizer — Fine-Tuned PEGASUS MLOps Pipeline](https://github.com/Aspect661/SamSum-Dialogue-Summarizer)
+### [📝 SamSum Dialogue Summarizer: Fine-Tuned PEGASUS MLOps Pipeline](https://github.com/Aspect661/SamSum-Dialogue-Summarizer)
 Fine-tuned Google's **PEGASUS** transformer on the SAMSum dialogue dataset for abstractive summarization, evaluated via ROUGE-1/2/L/Lsum. Built as a config-driven, 4-stage modular pipeline (ingestion → tokenization → training → evaluation) using typed dataclasses and YAML-based configuration management, served via FastAPI and containerized with Docker.
 `Python` `HuggingFace Transformers` `PyTorch` `FastAPI` `Docker`
 
